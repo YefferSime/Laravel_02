@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel1212
+                    <img src="./descarga.png" alt="">
                 </div>
 
                 <div class="links">
